@@ -8,6 +8,7 @@
 }
 li {
   list-style: none;
+  cursor: pointer;
 }
 p {
   font-size: 0.8rem;
@@ -63,6 +64,7 @@ button {
   letter-spacing: 1px;
   margin: 5px;
   display: block;
+  cursor: pointer;
 }
 .investors {
   display: flex;
